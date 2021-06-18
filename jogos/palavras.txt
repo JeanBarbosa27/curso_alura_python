@@ -1,0 +1,6 @@
+palavras, categorias
+banana, frutas
+python, linguagens de programação
+celular, tecnologia
+mesa, móveis
+televisão, tecnologia
